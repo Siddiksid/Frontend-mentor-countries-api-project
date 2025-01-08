@@ -184,7 +184,7 @@ select {
   flex-wrap: wrap;
   gap: 10px;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 900px) {
   .country-details .btn {
     max-width: 150px;
     display: flex;
